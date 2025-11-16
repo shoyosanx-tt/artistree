@@ -7,21 +7,19 @@
     "copyright": "© 2025 Franco Suárez"
   },
   "artist": {
-    "name": "Singer Artist",
-    "description": "Cantante y compositor de música indie.",
-    "bio": "Creando musica desde siempre",
+    "name": "Fx.Stuep",
+    "description": "Not just an edit — it’s emotion. Anime • FX • Vibes",
+    "bio": "Anime Editor",
     "picture": "/img/profile.webp"
   },
   "socials": {
-    "instagram": "https://instagram.com/franco",
-    "facebook": "https://facebook.com/franco",
-    "x": "https://x.com/franco",
-    "youtube": "https://youtube.com/franco",
-    "tiktok": "https://www.tiktok.com/@tuusuario"
+    "instagram": "https://www.instagram.com/fx.stuep.tt/",
+    "youtube": "https://www.youtube.com/@fxstuep",
+    "tiktok": "https://www.tiktok.com/@fx.stuep"
   },
   "booking": {
-    "email": "booking@artistree.link",
-    "phone": "+54 911 2345 6789"
+    "email": "--",
+    "phone": "--"
   },
   "shows": [
     {
